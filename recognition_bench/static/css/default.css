@@ -1,0 +1,23 @@
+.container {
+	margin-top: 6em;
+}
+
+.upload {
+	min-height: 150px;
+	border-style: dashed;
+	border-width: 3px;
+	border-color: rgba(224, 57, 151, 1.0) !important;
+}
+
+.upload > .header {
+	padding-top: 55px;
+	text-align: center;
+}
+
+.hover {
+	border-color: rgba(224, 57, 151, 0.5) !important;
+}
+
+.ui.horizontal.list:not(.celled) > .item:first-child {
+    margin-left: 1em !important;
+}

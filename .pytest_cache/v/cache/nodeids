@@ -1,0 +1,4 @@
+[
+  "recognition_bench/tests.py::ViewTests::test_my_view",
+  "recognition_bench/tests.py::FunctionalTests::test_root"
+]

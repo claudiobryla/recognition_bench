@@ -1,0 +1,27 @@
+[amazon]
+enabled = true
+access_key = 
+secret_key = 
+min_confidence = 50
+max_labels = 100
+
+[azure]
+enabled = true
+subscription_key = 
+base_url = https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/
+
+[clarifai]
+enabled = true
+api_key = 
+model = general-v1.3
+
+[google]
+enabled = true
+credentials_path =
+
+[watson]
+enabled = true
+api_key = 
+threshold = 0.1
+classifier_ids = default
+version = 2018-03-19

@@ -1,0 +1,3 @@
+[run]
+source = recognition_bench
+omit = recognition_bench/test*

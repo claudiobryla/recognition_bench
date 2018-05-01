@@ -1,5 +1,8 @@
 # Recognition Bench
+
 Recognition Bench is a quick tool that can be used to compare the results of popular image recognition services. It allows any developer to compare image recognition services without the overhead of having to learn each service's API and it also provides a simple web interface for uploading and classifying images so that anyone with a web browser can use it.
+
+![Recognition Bench](https://claudio.pl/img/recognition_bench.png "Screenshot")
 
 ### Background
 A recent project required me to classify a large number of images within a specific domain. I was getting mixed results between services and wanted to see who could provide us the results we were expecting most consistently. I developed this tool as a quick and simple way to compare all of the services without having to upload and record the results multiple times.
